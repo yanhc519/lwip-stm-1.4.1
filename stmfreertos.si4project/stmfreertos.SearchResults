@@ -1,0 +1,4 @@
+---- tftpd_init Matches (3 in 3 files) ----
+main in main.c (Project\Standalone\tftpserver\src) :   tftpd_init();
+tftpserver.c (Project\Standalone\tftpserver\src) line 585 : void tftpd_init(void)
+tftpserver.h (Project\Standalone\tftpserver\inc) line 42 : void tftpd_init(void);
